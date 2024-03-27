@@ -1,0 +1,77 @@
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#customers tr:nth-child(even){background-color: lightcyan;}
+#customers tr:hover {background-color: yellow;}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo-1 {
+    width: 12rem;
+}
+
+.logo-2 {
+    width: 5rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: darkred;
+}
+
+caption {
+    padding: 8px 0;
+    background-color: green;
+    color: #fff;
+    font-weight: 600;
+}
+
+th {
+    padding: 6px 0;
+    background-color: lightcoral;
+    font-size: .9rem;
+}
+
+p {
+    text-align: justify;
+}
+
+.celda {
+    padding: 3px 8px;
+}
+
+.celda-2 {
+    padding: 3px 8px;
+    vertical-align: top;
+}
+
+ul {
+    margin-inline-start: 0;
+    padding-inline-start: 20px;
+}
+
+img {
+    width: 8rem;
+}
+
+em {
+    color: #7380ec;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: #d9534f;
+}
